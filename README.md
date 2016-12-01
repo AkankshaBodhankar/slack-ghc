@@ -1,2 +1,2 @@
 # slack-ghc
-Slack Automatic Inviter for GHC
+Slack Automatic Inviter for  GHC
